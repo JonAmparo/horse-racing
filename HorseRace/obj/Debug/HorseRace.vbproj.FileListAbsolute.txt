@@ -1,0 +1,48 @@
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Racing.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Resources.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbprojResolveAssemblyReference.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.xml
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbprojAssemblyReference.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Racing.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Resources.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.GenerateResource.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.CoreCompileInputs.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.xml
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Racing.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Resources.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\bin\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Racing.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.Resources.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET2\Labs\WindowsApp2\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
